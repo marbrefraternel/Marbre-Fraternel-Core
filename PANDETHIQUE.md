@@ -86,7 +86,7 @@ Le Baron Yvarian de Roche Noire n’aimait pas l’imprévu. La production de se
 
 Pourquoi diantre ce lieutenant Sylvak n'était-il pas capable de gérer une simple émeute d'ouvriers ? Certes, la chose n'était pas courante, mais de pareilles mutineries s'étaient déjà produites dans d'autres domaines et avaient été écrasées sans délai par une main de fer.
 
-L'idée même de cette défaillance le rendait hord de lui. Il allait être la risée à la Cour. Quelle honte pour lui d'outrager ainsi la Reine par une incompétence aussi manifeste. Il imaginait déjà les sourires narquois des autres nobles, les chuchotements venimeux sur la fragilité de son domaine.
+L'idée même de cette défaillance le rendait hors de lui. Il allait être la risée à la Cour. Quelle honte pour lui d'outrager ainsi la Reine par une incompétence aussi manifeste. Il imaginait déjà les sourires narquois des autres nobles, les chuchotements venimeux sur la fragilité de son domaine.
 
 Yvarian sortit sur le promontoire de pierre qui surplombait l'abîme. Le vent glacé fouettait son visage, mais il ne cilla pas. Ses yeux scrutaient les sommets déchiquetés de Roche Noire, là où la montagne semblait défier le ciel.
 
@@ -97,7 +97,7 @@ Le cri résonna contre les parois vertigineuses, se répercutant de falaise en f
 
 ### CHAPITRE 4 : LE SACRIFICE DU DUC
 
-Dans la salle du Trône d'Opale, le silence n'était pas celui du respect, mais celui d'une terreur absolue. La Reine, d'une beauté indescriptible, se tenait debout, dominant la cour du haut de son estrade cristalline. Sa haute stature lui conférait une aura aussi troublante qu'effrayante. À ses pieds, le Duc Valerius ne parvenait plus à cacher le tremblement de ses membres.
+Dans la salle du Trône d'Opale, le silence n'était pas celui du respect, mais celui d'une terreur absolue. La Reine Callista, d'une beauté indescriptible, se tenait debout, dominant la cour du haut de son estrade cristalline. Sa haute stature lui conférait une aura aussi troublante qu'effrayante. À ses pieds, le Duc Valerius ne parvenait plus à cacher le tremblement de ses membres.
 
 — « Majesté, le Baron Yvarian demande plus de temps, les galeries sont... »
 

@@ -30,4 +30,4 @@ Ces exemples sont des **caricatures utiles**. Elles ne prétendent pas décrire 
 En gardant cela en tête, on cesse de voir la physique comme une succession de phénomènes inexplicables, pour commencer à la voir comme une architecture système où l'information est contrainte par nos méthodes d'observation.
 
 > *Pour ceux qui souhaitent poursuivre  cette réflexion, je propose une architecture logique des fondements vibratoires [MODELE-VIBRATOIRE] : (./MODELE-VIBRATOIRE.md)
-
+* [**Accéder au modèle technique**](./MODELE-VIBRATOIRE.md) 

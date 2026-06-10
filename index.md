@@ -65,7 +65,7 @@ C'est ici que la théorie rencontre la réalité. Plongez dans l'incident Gamma-
 * [**CASES-STUDY.md**](./CASES-STUDY) : Études de cas. Résolution de dilemmes via la boussole éthique.
 
 ### 📚 Références et Engagement
-* [**ENGAGEMENT.md**](./ENGAGEMENT) : L'Engagement du Gardien, garant de l'intégrité et de la sanctuarisation du système.
+* [**ENGAGEMENT.md**](./ENGAGEMENT) : L'Engagement des papillons, garant de l'intégrité et de la sanctuarisation du système.
 * [**CONSCIENCE-ET-DROITS.md**](./CONSCIENCE-ET-DROITS) : Cadre juridique de l'être, droits fondamentaux et éthique appliquée.
 * [**LICENSE.md**](./LICENSES) : **Cadre Juridique**. Protection des actifs et dépôt d'antériorité.
 * [**GLOSSAIRE.md**](./GLOSSAIRE) : Définitions précises des concepts et symboles ($\mathbb{T}, Ⓥ, \beth, \Omega$, etc.).

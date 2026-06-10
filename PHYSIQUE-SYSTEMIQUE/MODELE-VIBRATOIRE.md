@@ -1,4 +1,4 @@
-# Architecture Logique de l'Univers : Modèle Vibratoire Découplé
+# Architecture Logique de l'Univers : Modèle Vibratoire
 ## Note de cadrage et réflexion épistémologique
 
 *Ce document formalise une structure conceptuelle de l'univers née d'une convergence entre la physique théorique et l'architecture des systèmes. Il ne s'agit pas d'une démonstration scientifique expérimentale (n'ayant pas de preuve directe sous l'échelle de Planck), mais d'une réflexion logique, visant à unifier les paradoxes apparents entre la Relativité Générale et la Mécanique Quantique par le principe du découplage structurel (Arrière-plan vs Avant-plan).*

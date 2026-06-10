@@ -58,7 +58,7 @@ C'est ici que la théorie rencontre la réalité. Plongez dans l'incident Gamma-
 
 ### ⚙️ Fondements et Axiomes
 * [**AXIOMES.md**](./AXIOMES) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
-* [**PHYSIQUE-SYSTEMIQUE.md**](./PHYSIQUE-SYSTEMIQUE/README.md) : Analyse épistémologique des paradoxes physiques par le découplage structurel et l'encapsulation.
+* [**PHYSIQUE-SYSTEMIQUE**](./PHYSIQUE-SYSTEMIQUE/README.md) : Analyse épistémologique des paradoxes physiques par le découplage structurel et l'encapsulation.
 
 ### 🧬 Pratique et IA
 * [**SYSTEM-INSTRUCTIONS.md**](./SYSTEM-INSTRUCTIONS) : Protocole opérationnel pour LLM. Intègre le moteur de calcul et la cascade entropique.

@@ -8,7 +8,7 @@
 ## I. Les Quatre Piliers du Modèle Fondamental
 
 ### 1. Le Support : La Trame
-L'espace n'est pas un vide passif ni un lieu de stockage, c'est un substrat structurel et géométrique dynamique : la Trame. Cette trame possède une capacité intrinsèque de déformation, de tension et d'agencement. Elle constitue le canevas à travers lequel tout événement se manifeste et se formule.
+L'espace est un substrat structurel et géométrique dynamique : la Trame. Cette trame possède une capacité intrinsèque de déformation, de tension et d'agencement. Elle constitue le canevas à travers lequel tout événement se manifeste et se formule.
 
 ### 2. La Topologie : L'Origami Cosmique
 La trame ne se contente pas d'être, elle se déploie selon une topologie de type "origami". L'espace peut se plier, se superposer et se contracter localement. Ces "plis" (singularités topologiques) définissent les zones de forte courbure, dictant la géométrie des interactions possibles. La topologie est le canevas rigide qui autorise le déploiement des champs.

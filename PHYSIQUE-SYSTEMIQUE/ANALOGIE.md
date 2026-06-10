@@ -29,4 +29,4 @@ Ces exemples sont des **caricatures utiles**. Elles ne prétendent pas décrire 
 
 En gardant cela en tête, on cesse de voir la physique comme une succession de phénomènes inexplicables, pour commencer à la voir comme une architecture système où l'information est contrainte par nos méthodes d'observation.
 
-> *Pour ceux qui souhaitent voir comment cette réflexion se formalise sans l'usage d'analogies, je propose une architecture logique des fondements vibratoires [Lien vers votre document technique].*
+> *Pour ceux qui souhaitent poursuivre  cette réflexion, je propose une architecture logique des fondements vibratoires [PHYSIQUE-VIBRATOIRE.md].*

@@ -1,21 +1,18 @@
 # Physique Systémique : Analyse des fondements vibratoires
 
-Ce module constitue une extension de l'axiomatique du **Marbre Fraternel** appliquée à l'épistémologie de la physique. Ici, nous ne cherchons pas à décrire la matière de manière isolée, mais à analyser la **structure des interactions** entre l'observateur et le système.
+Ce module est une extension de l'axiomatique du **Marbre Fraternel**. Il examine les limites de la mesure et les paradoxes de la physique sous l'angle du découplage structurel.
 
-## 🌀 Problématique : Le biais de l'instrument
-La physique classique et quantique se heurte souvent à des paradoxes (non-localité, effondrement de la fonction d'onde) qui semblent mystiques. Notre hypothèse est systémique : ces paradoxes sont des **résumés destructifs** générés par l'inadéquation entre nos outils de mesure et la dynamique réelle du réel.
+## 🏛️ Accès aux travaux
 
-## 🧩 Les Analogies de lecture
-Pour appréhender cette déformation, nous utilisons trois modèles de compréhension :
-1. **Le Laser et la Cellule** : L'intrusion comme condition de la destruction du vivant.
-2. **La Roue et le Flou** : La limite de rafraîchissement comme source d'illusion de probabilité.
-3. **Le Chanteur et la Note** : La mesure comme gel d'un processus dynamique.
+La réflexion est articulée en deux niveaux complémentaires :
 
-## 🏛️ Architecture Logique
-Cette réflexion est formalisée sans recours aux analogies dans notre document de référence. Il établit les piliers logiques permettant de distinguer ce qui *est* de ce que nous *percevons*.
+### 1. Approche Pédagogique (Les Analogies)
+Pour appréhender les enjeux sans entrer immédiatement dans le formalisme technique, nous utilisons des modèles de lecture basés sur l'interaction observateur-système. 
+* [**Lire les analogies de lecture**](./ANALOGIE.md) : Comprendre le biais de l'instrument à travers le laser, la roue et le chant.
 
-* [**Accéder à l'architecture technique (modèle vibratoire)**](./modele_vibratoire.md)
+### 2. Architecture Technique (Modèle Vibratoire)
+C'est le cœur "carré" de la recherche. Cette partie formalise l'axiomatique, les opérateurs et la structure logique qui soutient le modèle, débarrassée de toute analogie.
+* [**Accéder au modèle technique**](./MODELE-VIBRATOIRE.md) : Formalisation rigoureuse des piliers vibratoires et du découplage.
 
 ---
-> *« Le Marbre Fraternel est un système heuristique conçu pour faire de l'éthique la boussole de nos actions. Appliquer cette rigueur à la physique, c'est refuser le mystique pour privilégier la cohérence systémique. »*
-
+> *« Appliquer la rigueur de notre boussole éthique à la physique, c'est refuser le mystique pour privilégier la cohérence systémique. »*

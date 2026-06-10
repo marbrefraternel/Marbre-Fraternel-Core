@@ -11,8 +11,7 @@ Pour appréhender les enjeux sans entrer immédiatement dans le formalisme techn
 * [**Lire les analogies de lecture**](./ANALOGIE.md) : Comprendre le biais de l'instrument à travers le laser, la roue et le chant.
 
 ### 2. Architecture Technique (Modèle Vibratoire)
-C'est le cœur "carré" de la recherche. Cette partie formalise l'axiomatique, les opérateurs et la structure logique qui soutient le modèle, débarrassée de toute analogie.
-* [**Accéder au modèle technique**](./MODELE-VIBRATOIRE.md) : Formalisation rigoureuse des piliers vibratoires et du découplage.
+C'est l'approche conceptuelle. Cette partie formalise l'axiomatique, les opérateurs et la structure logique qui soutient le modèle.
+* [**Accéder au modèle technique**](./MODELE-VIBRATOIRE.md) : Formalisation des piliers vibratoires et du découplage.
 
 ---
-> *« Appliquer la rigueur de notre boussole éthique à la physique, c'est refuser le mystique pour privilégier la cohérence systémique. »*

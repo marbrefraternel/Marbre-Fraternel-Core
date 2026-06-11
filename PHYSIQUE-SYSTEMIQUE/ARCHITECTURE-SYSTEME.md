@@ -1,4 +1,4 @@
-# ARCHITECTURE SYSTÉMIQUE DE LA RÉALITÉ (ASR)
+# ARCHITECTURE  DE LA RÉALITÉ TRANSCENDANTE \mathbb{T}
 
 ## I. Hiérarchie de Granulométrie (Modélisation Adaptative)
 Le système adopte un principe de parcimonie interactionnelle. (modélisation du moindre effort) : la complexité computationnelle est restreinte au niveau de résolution requis par l'interaction.

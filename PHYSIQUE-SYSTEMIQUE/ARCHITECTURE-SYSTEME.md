@@ -39,8 +39,13 @@ L'espace et le temps sont des structures discrètes. La continuité apparente es
 La limite de Planck est une limite d'interface d'observation, non une limite de réalité. 
 * **Le Paradoxe du Cache-Cache :** Le système possède une précision native supérieure à notre fenêtre de mesure. Les phénomènes quantiques sont les effets de bord d'une logique interne protégée par cette barrière.
 
-### 3. Couplage Structurel
-L'existence est l'interaction entre la structure (l'espace/vésicule) et la dynamique (le changement d'états). Sans structure, pas de différenciation ; sans changement, pas de réalité phénoménologique.
+### 3. Principe de Réduction (Le Degré Zéro)
+Pour comprendre la nécessité du couplage structure/temps, il faut envisager l'absence de ses composants :
+* **Absence de Structure (Sans dessin) :** La Trame existe, mais elle est dépourvue de repliements. Sans les vésicules et les origamis, il n'y a aucune différenciation possible. Le résultat est une "page de néant", un état vide et uniforme sans aucune information discernable.
+* **Absence de Temps (Sans mouvement) :** La structure est là, mais elle est totalement figée. Dans cette condition, le dessin ne peut même pas manifester une forme ou un trait : il se fragmente en une infinité de pixels statiques, chacun isolé, incapable de former une séquence. Le "trait" est une illusion qui nécessite impérativement le rafraîchissement temporel.
+
+### 4. Couplage Structurel
+L'existence est l'interaction entre les champs portés par le champs spatial et le champs temporel. On parle de champ spatio-temporel car, sans champ spatial le champ temporel n'a pas de sens ( et inversemement), et que sans lui les autres champs ne peuvent pas se manifester.
 
 ---
 
@@ -48,4 +53,4 @@ L'existence est l'interaction entre la structure (l'espace/vésicule) et la dyna
 L'Univers est une structure dynamique, une succession dynamique de repliements topologiques  dans une Trame globale.
 * **Interaction"**,  une physique de la résonance des champs.
 * **temps" relatif**, une mesure de la variation séquentielle des états de chaque pixel.
-* **La complexité** émerge naturellement de la stratification topologique, où chaque niveau admet l'exitence de niveaux topologiques supérieurs ou inférieurs.
+* **La complexité** émerge naturellement de la stratification topologique, où chaque niveau admet l'existence de niveaux topologiques supérieurs ou inférieurs.

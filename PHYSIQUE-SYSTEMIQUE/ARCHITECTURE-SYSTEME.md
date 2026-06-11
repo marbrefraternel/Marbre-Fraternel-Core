@@ -1,13 +1,13 @@
 # ARCHITECTURE SYSTÉMIQUE DE LA RÉALITÉ (ASR)
 
 ## I. Hiérarchie de Granulométrie (Modélisation Adaptative)
-Le système adopte une approche de "Lazy Evaluation" (modélisation paresseuse) : la complexité computationnelle est restreinte au niveau de résolution requis par l'interaction.
+Le système adopte un principe de parcimonie interactionnelle. (modélisation du moindre effort) : la complexité computationnelle est restreinte au niveau de résolution requis par l'interaction.
 
 ### A. Niveau Macro-systémique (Interface Publique / Phénoménologique)
 1. **Entités :** Objets classiques, systèmes macroscopiques.
 2. **Méthodes :** Lois statistiques, mécanique classique.
 3. **Encapsulation :** La dynamique interne est masquée. Seuls les attributs observables (masse, vecteur impulsion) sont exposés.
-4. **Analogie :** Le "lecteur" du livre. Il perçoit l'histoire sans accéder aux détails de l'encre ou du support.
+4. **Analogie :** Le "lecteur" du livre. Il perçoit l'histoire sans avoir à traiter des notions innapropriées à l'échelle ( ex : l'encre ou le support).
 
 ### B. Niveau Meso-systémique (Architecture Topologique)
 1. **Structure :** - **Le Millefeuille :** Champ spatial global.

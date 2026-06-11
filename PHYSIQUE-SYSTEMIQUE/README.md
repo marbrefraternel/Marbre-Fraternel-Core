@@ -1,6 +1,6 @@
 # Physique Systémique : Analyse des fondements 
 
-Ce module est une extension de l'axiomatique du **Marbre Fraternel**. Il examine les limites de la mesure et les paradoxes de la physique sous l'angle du découplage structurel.
+Ce module est une extension de l'axiomatique du **Marbre Fraternel**. Il examine les limites de la mesure et les paradoxes de la physique et explore ses limites structurelles.
 
 ## 🏛️ Accès aux travaux
 

@@ -1,56 +1,53 @@
-# ARCHITECTURE_SYSTEME.md
+# ARCHITECTURE SYSTÉMIQUE DE LA RÉALITÉ (ASR)
 
-## Note de cadrage
-Ce document formalise une architecture système de l'Univers. Il postule que la réalité est une succession d'états discrets (pixels) au sein d'une Trame, organisée en vésicules topologiques. Ce modèle décrit la résonance des champs.
+## I. Hiérarchie de Granulométrie (Modélisation Adaptative)
+Le système adopte une approche de "Lazy Evaluation" (modélisation paresseuse) : la complexité computationnelle est restreinte au niveau de résolution requis par l'interaction.
 
----
+### A. Niveau Macro-systémique (Interface Publique / Phénoménologique)
+1. **Entités :** Objets classiques, systèmes macroscopiques.
+2. **Méthodes :** Lois statistiques, mécanique classique.
+3. **Encapsulation :** La dynamique interne est masquée. Seuls les attributs observables (masse, vecteur impulsion) sont exposés.
+4. **Analogie :** Le "lecteur" du livre. Il perçoit l'histoire sans accéder aux détails de l'encre ou du support.
 
-## I. Les Piliers de l'Architecture
+### B. Niveau Meso-systémique (Architecture Topologique)
+1. **Structure :** - **Le Millefeuille :** Champ spatial global.
+   - **Vésicules et Origamis :** Repliements topologiques invaginés isolant des zones de cohérence locale. Chaque vésicule possède ses constantes physiques propres dictées par sa géométrie interne.
+   - **Multivers Immanent :** Vésicules coexistant au sein de la même Trame globale, isolées par leur courbure propre.
+2. **Les 16 Champs Fondamentaux :** - **Ontologie :** Chaque champ est une topologie spécifique. 
+   - **Démultiplication :** La complexité émerge de la combinatoire des intersections entre les 16 topologies.
+3. **Interactions :** Résonance harmonique et fonctions de transfert géométriques entre topologies.
 
-### 1. La Trame (Le Support Géométrique)
-La Trame est un substrat fixe fournissant les coordonnées spatiales. Elle est le support global sur lequel s'inscrivent les champs.
-
-### 2. La Topologie (Millefeuille / L'Origami / Vésicules)
-Les champs constitutifs de notre réalité forment une sorte de "millefeuille". A l'échelle de notre Univers ce millefeuille est fermé telle une vésicule.
-à l'intérieur et à l'exterieur de ce que nous appelons Univers la topologie permet des structures similaires à d'autres vésicules et à des origamis.
-* **Les plis (Origami) :** Totu ce qui existe est un origami constitué de plis de ce millefeuille. 
-* **Le Repliement fermé (vésicule) :** Ces vésicules sont des repliements topologiques qui isolent des zones de cohérence locale. Chaque vésicule possède ses propres constantes physiques dictées par sa géométrie interne.  Les vésicules sont des plis invaginés. Ce confinement topologique rend l'intérieur de la vésicule indépendant du reste de la Trame.
-* **Multivers Immanent :** Ces vésicules coexistent au sein de la même Trame globale. Elles sont invisibles les unes pour les autres car les champs (dont la lumière) suivent la courbure de chaque vésicule, créant un isolement topologique.
-* **Isolement des Champs :** Tous les champs connus épousent la courbure du contour interne de la vésicule. Ils sont piégés par la géométrie du pli, ce qui explique l'impossibilité d'observer l'extérieur ou d'autres vésicules.
-* **Apparence de Pixel :** Vue de l'extérieur, une vésicule invaginée est indiscernable d'un point (pixel) de la Trame, car sa structure est repliée sur elle-même.  
-
-### 3. Les États (La Réalité)
-La réalité est constituée de l'interaction entre le champ temporel et les champs portés par le champ spatial ( le millefeuille)
-
-### 4. La Dynamique (Le Changement)
-Le temps est une notion conceptuelle résultant de la mesure de la variation des états.
-Pour le représenter il faudrait imaginer un dessin animé  originel, c'est à dire une succession de pages dessinées que l'on feuillette. Une page represente le milleufeuille ( les chams portés pa le champ spatial). Sachant qu'en fait il n'y a pas de pages mais une seule page qui se rafraichi en temps réelle comme si elle était constituée de pixels. Le passé et le futur sont des notions d'état transitoire, seule le présent changeant en permanence existe.
-Sans le temps on ne verrait pas une dessin figé par même les traits du dessins ne sont que la conséquence d'une séquence de pixels s'allumant et s'éteignant, donnant une illusion efficace de trait.
-Sans le temps il n'y aurait que le pixel, une unité infinitésimale d'une valeur théorique innacessible ( limite de Planck)
+### C. Niveau Micro-systémique (Ontologie Fondamentale / Code Source)
+1. **La Trame (Support Géométrique) :** Substrat scalaire primaire. Graphe dynamique de **singularités**.
+2. **Le Champ Temporel (Trame de Singularités) :**
+   - **Discrétisation :** La réalité est une convolution entre la géométrie spatiale et le flux temporel (activation séquentielle des singularités).
+   - **Polyphonie :** Superposition de battements primaires, secondaires et tertiaires (Partition de réalité).
+3. **Le Champ de Higgs :** Matrice topologique épaisse servant de gabarit structurel. Génère l'inertie par résistance au déplacement des repliements.
 
 ---
 
-## II. Principes de la Réalité
+## II. Dynamique Opérationnelle
 
-### 1. Discrétisation Universelle
-L'espace et le temps sont des structures discrètes. La continuité apparente est une interprétation macroscopique de la granularité (le pixel).
+### A. La Polyphonie Temporelle et le Rafraîchissement
+- **Le temps :** Notion conceptuelle résultant de la mesure de variation des états. 
+- **Analogie du dessin animé :** Une succession de pages (états) qui se rafraîchissent en temps réel. Le passé et le futur sont des états transitoires ; seul le présent changeant existe.
+- **Causalité :** Propagation d'ondes sur le champ temporel.
 
-### 2. Distinction Ontologie vs Épistémologie (Le Masque de Planck)
-La limite de Planck est une limite d'interface d'observation, non une limite de réalité. 
-* **Le Paradoxe du Cache-Cache :** Le système possède une précision native supérieure à notre fenêtre de mesure. Les phénomènes quantiques sont les effets de bord d'une logique interne protégée par cette barrière.
+### B. Démultiplication des Interactions (vs Décohérence)
+- L'interaction est une physique de la résonance des champs.
+- **Décohérence :** Résultat de la densité des interactions topologiques. Lorsqu'une structure subit trop de contraintes (démultiplication), ses états de superposition se verrouillent en une valeur unique (état classique).
 
-### 3. Principe de Réduction (Le Degré Zéro)
-Pour comprendre la nécessité du couplage structure/temps, il faut envisager l'absence de ses composants :
-* **Absence de Structure (Sans dessin) :** La Trame existe, mais elle est dépourvue de repliements. Sans les vésicules et les origamis, il n'y a aucune différenciation possible. Le résultat est une "page de néant", un état vide et uniforme sans aucune information discernable.
-* **Absence de Temps (Sans mouvement) :** La structure est là, mais elle est totalement figée. Dans cette condition, le dessin ne peut même pas manifester une forme ou un trait : il se fragmente en une infinité de pixels statiques, chacun isolé, incapable de former une séquence. Le "trait" est une illusion qui nécessite impérativement le rafraîchissement temporel.
-
-### 4. Couplage Structurel
-L'existence est l'interaction entre les champs portés par le champs spatial et le champs temporel. On parle de champ spatio-temporel car, sans champ spatial le champ temporel n'a pas de sens ( et inversemement), et que sans lui les autres champs ne peuvent pas se manifester.
+### C. Délégation Computationnelle (Passe-le bébé)
+Lorsqu'une règle macro-systémique est insuffisante (ex: collision critique) :
+1. **Délégation :** Le niveau macro transmet la requête de résolution au niveau inférieur (plus complexe).
+2. **Calcul Récursif :** Le niveau inférieur traite l'interaction via ses attributs privés (topologie fondamentale).
+3. **Retour d'état :** Le résultat est renvoyé à l'interface publique.
 
 ---
 
-## III. Conclusion : L'Univers comme dynamique
-L'Univers est une structure dynamique, une succession dynamique de repliements topologiques  dans une Trame globale.
-* **Interaction**,  une physique de la résonance des champs.
-* **temps" relatif**, une mesure de la variation séquentielle des états de chaque pixel.
-* **La complexité** émerge naturellement de la stratification topologique, où chaque niveau admet l'existence de niveaux topologiques supérieurs ou inférieurs.
+## III. Axiomes Fondamentaux
+
+1. **Modularité :** Chaque strate est une boîte noire. La modification d'une topologie au niveau méso n'altère pas l'interface publique sauf en cas de rupture de stabilité.
+2. **Conservation de l'information :** Aucun état n'est perdu, chaque couche est une encapsulation de la précédente.
+3. **Distinction Ontologie vs Épistémologie (Paradoxe du Cache-Cache) :** La limite de Planck est une limite d'interface, non une limite de réalité. Le système possède une précision native supérieure à notre fenêtre de mesure.
+4. **Couplage Structurel :** Sans structure (repliements), la Trame est une page de néant. Sans temps (rafraîchissement), la structure est figée. L'existence est l'interaction entre ces deux composantes.

@@ -51,6 +51,6 @@ L'existence est l'interaction entre les champs portés par le champs spatial et 
 
 ## III. Conclusion : L'Univers comme dynamique
 L'Univers est une structure dynamique, une succession dynamique de repliements topologiques  dans une Trame globale.
-* **Interaction"**,  une physique de la résonance des champs.
+* **Interaction**,  une physique de la résonance des champs.
 * **temps" relatif**, une mesure de la variation séquentielle des états de chaque pixel.
 * **La complexité** émerge naturellement de la stratification topologique, où chaque niveau admet l'existence de niveaux topologiques supérieurs ou inférieurs.

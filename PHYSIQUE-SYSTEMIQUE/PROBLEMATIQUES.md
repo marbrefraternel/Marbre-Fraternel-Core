@@ -1,6 +1,6 @@
 # Problématique.md - Architecture du Réel Transcendant \mathbb{T}
 
-Ce document consigne les scénarios critiques, les contradictions soulevées et les résolutions axiomatiques actées pour l'ASR.
+Ce document consigne les scénarios critiques, les contradictions soulevées et les résolutions axiomatiques
 
 ---
 

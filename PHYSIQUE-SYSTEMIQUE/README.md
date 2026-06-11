@@ -1,4 +1,4 @@
-# Physique Systémique : Analyse des fondements vibratoires
+# Physique Systémique : Analyse des fondements 
 
 Ce module est une extension de l'axiomatique du **Marbre Fraternel**. Il examine les limites de la mesure et les paradoxes de la physique sous l'angle du découplage structurel.
 
@@ -12,6 +12,6 @@ Pour appréhender les enjeux sans entrer immédiatement dans le formalisme techn
 
 ### 2. Architecture Technique (Modèle Vibratoire)
 C'est l'approche conceptuelle. Cette partie formalise l'axiomatique, les opérateurs et la structure logique qui soutient le modèle.
-* [**Accéder au modèle technique**](./MODELE-VIBRATOIRE.md) : Formalisation des piliers vibratoires et du découplage.
+* [**Accéder au modèle technique**](./ARCHITECTURE-SYSTEME.md) : Formalisation des piliers.
 
 ---

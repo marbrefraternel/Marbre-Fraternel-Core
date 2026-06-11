@@ -1,4 +1,4 @@
-# Problématique.md - Architecture Systémique de la Réalité (ASR)
+# Problématique.md - Architecture du Réel Transcendant \mathbb{T}
 
 Ce document consigne les scénarios critiques, les contradictions soulevées et les résolutions axiomatiques actées pour l'ASR.
 

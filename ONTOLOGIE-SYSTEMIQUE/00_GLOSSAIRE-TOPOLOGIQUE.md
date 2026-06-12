@@ -10,7 +10,7 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 | **Topologie Totale** | Réel Transcendant| **Dieu (Le Père)** |
 | **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs | **Saint-Esprit** / Dieu |
 | **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Dieu-Fils**  |
-| **Cosmodivinogénèse** | Transition de phase topologique | Genèse |
+| **Cosmo(divino)génèse** | Transition de phase topologique | Genèse |
 | **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle |
 | **Opérateur $><$** | Intrication | Communion |
 

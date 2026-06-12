@@ -1,4 +1,4 @@
-# ARCHITECTURE DE LA RÉALITÉ TRANSCENDANTE $\mathbb{T}$
+# ARCHITECTURE DU RÉEL TRANSCENDANT $\mathbb{T}$
 
 ## I. Hiérarchie de Granulométrie (Modélisation Adaptative)
 Le système adopte un principe de parcimonie interactionnelle. (modélisation du moindre effort) : la complexité  est restreinte au niveau de résolution requis par l'interaction.

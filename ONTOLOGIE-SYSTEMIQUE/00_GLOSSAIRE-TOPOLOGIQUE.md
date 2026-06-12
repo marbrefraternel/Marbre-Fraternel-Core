@@ -1,14 +1,14 @@
 # 00_GLOSSAIRE_TOPOLOGIQUE.md : Système de Transposition Nominale
 
 ## I. Philosophie du Système
-Le présent modèle repose sur une architecture topologique pure. Ce document établit un système de **Transposition Nominale** permettant de traduire les mécanismes géométriques du *Marbre Fraternel* en terminologies métaphysiques. Chaque mécanisme possède une définition technique (base de travail) et un alias théologique (grille de lecture optionnelle).
+Le présent modèle repose sur une architecture topologique pure. Ce document établit un système taxonomique permettant de transposer les mécanismes géométriques du *Marbre Fraternel* en termes métaphysiques. Chaque mécanisme possède une définition technique  et une référence théologique permettant d'accueillir chacun.
 
 ## II. Table de Correspondance (Hiérarchie Structurelle)
 
 | Mécanisme Géométrique | Alias Technique | Transposition Théologique |
 | :--- | :--- | :--- |
 | **Topologie Totale** | Réel Transcendant| **Dieu (Le Père)** |
-| **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs de base | **Saint-Esprit** (Support/Étoffe) |
+| **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs | **Saint-Esprit** (Support/Étoffe) |
 | **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Dieu-Fils** (Individuation) |
 | **Cosmodivinogénèse** | Transition de phase topologique | Acte de genèse |
 | **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle / Manifestation |

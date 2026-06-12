@@ -9,8 +9,8 @@ Pour guider l'esprit à travers les différentes échelles du réel, cette matri
 
 ---
 
-### 1. Postulat de la Matérialisation (Le Probable)
-Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante à des problématiques ou des observations du réel, elle quitte le statut de pure fiction ou de fantasme pour acquérir le statut de **probable** (au même titre que d'autres structures également satisfaisantes). L'absence de preuve instrumentale immédiate ne valide pas le néant ; elle valide uniquement la limite de nos capteurs actuels.
+### 1. Postulat de la Matérialisation (Le Plausible)
+Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante à des problématiques ou des observations du réel, elle quitte le statut de pure fiction ou de fantasme pour acquérir le statut de **plausible** (au même titre que d'autres structures également satisfaisantes). L'absence de preuve instrumentale immédiate ne valide pas le néant ; elle valide uniquement la limite de nos capteurs actuels.
 
 ### 2. Loi de Subsomption Topologique (L'Englobement par Échelle)
 Les théories et les visions du monde ne se remplacent pas en se détruisant de façon anarchique ; elles s'ordonnent par l'inclusion de leurs domaines de validité respectifs. Cela définit une hiérarchie de granulométrie (d'échelle, de zoom) et non une hiérarchie de valeur morale. 

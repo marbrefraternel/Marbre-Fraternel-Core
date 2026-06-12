@@ -1,17 +1,14 @@
-# Physique Systémique : Analyse des fondements 
+# Ontologie Systémique : Modélisation des Fondements et des Structures
 
-Ce module est une extension de l'axiomatique du **Marbre Fraternel**. Il examine les limites de la mesure et les paradoxes de la physique et explore ses limites structurelles.
+Ce module constitue l'extension et le déploiement opérationnel de l'axiomatique du **Marbre Fraternel**. Il explore les limites de l'instrumentation, résout les paradoxes physiques traditionnels et modélise les structures logiques qui soutiennent le continuum du Réel Transcendant.
 
-## 🏛️ Accès aux travaux
+## 🏛️ Indexation des composants
 
-La réflexion est articulée en deux niveaux complémentaires :
+Pour préserver une lecture rigoureuse, les fichiers de ce répertoire sont ordonnés selon une granulométrie conceptuelle stricte, allant de l'axiome pur à l'application phénoménologique :
 
-### 1. Approche Pédagogique (Les Analogies)
-Pour appréhender les enjeux sans entrer immédiatement dans le formalisme technique, nous utilisons des modèles de lecture basés sur l'interaction observateur-système. 
-* [**Lire les analogies de lecture**](./ANALOGIE.md) : Comprendre le biais de l'instrument à travers le laser, la roue et le chant.
-
-### 2. Architecture Technique (Modèle Vibratoire)
-C'est l'approche conceptuelle. Cette partie formalise l'axiomatique, les opérateurs et la structure logique qui soutient le modèle.
-* [**Accéder au modèle technique**](./ARCHITECTURE-SYSTEME.md) : Formalisation des piliers.
+1. **[01_MATRICE-CONCEPTUELLE.md](./01_MATRICE-CONCEPTUELLE.md)** : Fondements et lois de l'ingénierie cognitive.
+2. **[02_ARCHITECTURE-SYSTEME.md](./02_ARCHITECTURE-SYSTEME.md)** : Modélisation des champs et de l'équation $17 >< 2$.
+3. **[03_ANALOGIES-PEDAGOGIQUES.md](./03_ANALOGIES-PEDAGOGIQUES.md)** : Caricatures nécessaires pour appréhender le biais de l'observateur.
+4. **[04_SCENARIOS-CRITIQUES.md](./04_SCENARIOS-CRITIQUES.md)** : Résolution des paradoxes physiques via les opérateurs `><` et `≡`.
 
 ---

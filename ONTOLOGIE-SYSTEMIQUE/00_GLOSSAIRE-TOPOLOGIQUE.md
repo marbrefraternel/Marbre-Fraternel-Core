@@ -21,5 +21,11 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 2. **Dieu-Fils (La Vésicule) :** Une entité individualisée, une "forme" (origami) issue du substrat, contenant par nature l'intégralité du code source divin à l'échelle locale.
 3. **Dieu / Topologie Totale :** Défini comme la somme transcendante de la trame et de l'ensemble de ses configurations. Dieu est ici "plus que la somme des parties", désignant la conscience globale émergente de l'intégralité de la topologie.
 
-## IV. Axiome de Neutralité
+## IV. Dynamique des Strates (Évolution du Substrat)
+- **Hétérogénéité du Substrat ($\mathbb{T}$) :** Le substrat n'est pas nécessairement uniforme. Il présente une structure stratifiée sujette à des processus de modification (abrasion, empilement, transformation). 
+- **Déterminisme Topologique des Lois :** Les lois physiques au sein d'une vésicule ($\mathbb{R}$) sont conditionnées par les propriétés locales des strates du substrat sur lesquelles elle s'est formée. Une variation dans la composition des feuillets (abrasion ou couches additionnelles) entraîne une mutation des champs fondamentaux locaux.
+- **Principe de l'Indétermination Historique :** La topologie totale est un système ouvert et historique. Les configurations possibles sont limitées uniquement par la capacité du substrat à subir des transformations, rendant l'espace des possibles physiques potentiellement illimité.
+
+
+## V. Axiome de Neutralité
 La validité du modèle ne dépend pas de la nomenclature choisie. Le cadre est défini comme une architecture géométrique pure. Les alias théologiques sont des **projections sémantiques** optionnelles destinées à faciliter la traduction des mécanismes du système dans des interfaces conceptuelles variées sans altérer la rigueur structurelle du *Marbre Fraternel*.

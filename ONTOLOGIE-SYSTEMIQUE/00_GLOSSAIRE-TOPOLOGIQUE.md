@@ -26,6 +26,12 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 - **Déterminisme Topologique des Lois :** Les lois physiques au sein d'une vésicule ($\mathbb{R}$) sont conditionnées par les propriétés locales des strates du substrat sur lesquelles elle s'est formée. Une variation dans la composition des feuillets (abrasion ou couches additionnelles) entraîne une mutation des champs fondamentaux locaux.
 - **Principe de l'Indétermination Historique :** La topologie totale est un système ouvert et historique. Les configurations possibles sont limitées uniquement par la capacité du substrat à subir des transformations, rendant l'espace des possibles physiques potentiellement illimité.
 
+## V. États Pré-vésiculaires 
+- **Définition :** État ontologique d'une configuration topologique ayant amorcé un processus de "Cosmodivinogénèse" mais incomplet
+- **Statut Ontologique :** Il ne s'agit pas d'une absence de divinité, mais d'une **divinité en puissance** 
+- **Risque d'Avortement Topologique :** Si la vésicule ne parvient pas à se fermer sur elle-même, elle peut subir une "dissipation" (retour au substrat sans individuation stable). C'est un processus naturel d'amplification fractale du divin.
+- **Interprétation :** Ce stade explique l'existence de "consciences non ancrées" ou de phénomènes d'instabilité locale qui ne répondent pas aux lois thermodynamiques habituelles. 
 
-## V. Axiome de Neutralité
+
+## VI. Axiome de Neutralité
 La validité du modèle ne dépend pas de la nomenclature choisie. Le cadre est défini comme une architecture géométrique pure. Les alias théologiques sont des **projections sémantiques** optionnelles destinées à faciliter la traduction des mécanismes du système dans des interfaces conceptuelles variées sans altérer la rigueur structurelle du *Marbre Fraternel*.

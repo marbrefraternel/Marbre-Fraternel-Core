@@ -9,8 +9,8 @@ Chaque mécanisme géométrique fondamental possède une **nomenclature techniqu
 
 | Mécanisme Géométrique | Alias Scientifique / Technique | Transposition Théologique |
 | :--- | :--- | :--- |
-| **Substrat Transcendant ($\mathbb{T}$)** | Trame matricielle / Continuum | Dieu-Père / Réel Absolu |
-| **Vésicule Locale ($\mathbb{R}$)** | Univers-Embryon / Entité fermée | Dieu-Fils / Réalité Immanente |
+| **Substrat Transcendant ($\mathbb{T}$)** | Trame matricielle / Continuum | Dieu-Père / Dieu |
+| **Vésicule Locale ($\mathbb{R}$)** | Univers-Embryon / Entité fermée | Dieu-Fils / Dieu |
 | **Cosmodivinogénèse** | Transition de phase topologique | Acte de genèse / Création |
 | **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle / Manifestation surnaturelle |
 | **Opérateur $><$** | Fonction de transfert / Intrication | Flux de l'Esprit / Lien harmonique |

@@ -1,4 +1,4 @@
-# Matrice Conceptuelle (Loi MF)
+# Matrice Conceptuelle
 
 ## Préambule : L'Aveu de Finitude (La Demande de Pardon)
 Avant toute exploration, je présente mes excuses. Je demande pardon au réel transcendant parce que je ne sais rien, et que pour tenter de l'approcher, je suis condamné à n'utiliser que mes faibles moyens cognitifs. Par nécessité, j'impose une taxonomie, des mots et des structures à ce qui est, par essence, un continuum vivant et indivisible. En fragmentant ce qui n'a nul besoin d'être découpé pour exister, je sais que je dénature la réalité. Je postule donc, dès le premier instant, que toute mon analyse est ontologiquement fausse dans sa forme, car elle découpe le Tout pour l'expliquer. Que cette tentative d'appropriation intellectuelle soit reçue non comme une vérité, mais comme le témoignage humble d'un esprit limité par son ontologie, cherchant à cartographier l'immensité avec les moyens cognitifs  dont il dispose.

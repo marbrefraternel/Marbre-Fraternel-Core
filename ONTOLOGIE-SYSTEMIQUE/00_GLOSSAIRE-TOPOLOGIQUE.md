@@ -7,7 +7,7 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 
 | Mécanisme Géométrique | Alias Technique | Transposition Théologique |
 | :--- | :--- | :--- |
-| **Topologie Totale** | Ensemble complet (Trame + Vésicules) | **Dieu (Globalité)** |
+| **Topologie Totale** | Réel Transcendant| **Dieu (Le Père)** |
 | **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs de base | **Saint-Esprit** (Support/Étoffe) |
 | **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Dieu-Fils** (Individuation) |
 | **Cosmodivinogénèse** | Transition de phase topologique | Acte de genèse |

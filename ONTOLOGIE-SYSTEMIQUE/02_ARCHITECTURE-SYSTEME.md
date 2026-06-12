@@ -54,10 +54,23 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
 
 ## II. Dynamique Opérationnelle
 
-### A. La Polyphonie Temporelle et le Rafraîchissement
-- **Le temps ($t$) :** Notion conceptuelle résultant de la mesure de variation des états au sein de $\mathbb{R}$. 
-- **Analogie du dessin animé :** Une succession de pages (états) qui se rafraîchissent en temps réel. Le passé et le futur sont des états transitoires ; seul le présent changeant existe.
-- **Causalité :** Propagation d'ondes sur le champ temporel.
+### A. La Polyphonie Temporelle et la Dynamique de Transition
+- **Ontologie du Temps ($t$) :** Le temps n'est pas un flux fluide préexistant, mais un **artifice de distinction**. Notion conceptuelle résultant de la mesure de variation des états au sein de $\mathbb{R}$.
+- **Analogie du dessin animé :** Une succession de pages (états) qui se rafraîchissent en temps réel. Le passé et le futur sont des états transitoires ; seul le présent changeant existe.  
+- **La nécessité de la "Page" :** Pour qu'une interaction soit identifiable, il faut qu'il y ait une différence d'état entre deux configurations topologiques. La "page" du livre est le support de cette différence. 
+- **La Vitesse de Passage :** Le "rythme" du rafraîchissement des pages n'est pas une constante universelle. Il est corrélé à la densité d'interactions ($><$) : là où les interactions sont denses, la succession des pages (le rafraîchissement) s'accélère. 
+- **Formalisme de la Distinction :** Si $Page_{n} \equiv Page_{n+1}$, alors aucune information n'est générée. Le mouvement n'existe que par la rupture de symétrie entre deux états topologiques : 
+  $$\Delta \text{Topologie} \equiv \text{Événement Temporel}$$
+
+- **L'illusion du rafraîchissement global :** La notion de "page" (état global de $\mathbb{R}$) est une abstraction. Dans le réel, chaque singularité ($S_i$) possède son propre vecteur de transformation ($V_i$) qui régit son passage d'un état à l'autre.
+- **Le Vecteur de Transition :** Le passage de la "Page 1" à la "Page 2" n'est pas un saut instantané et uniforme. C'est l'intégration de la somme des dynamiques individuelles de toutes les singularités.
+- **Formalisme de la Transition :** $$S_{i} (t+1) \equiv S_{i}(t) + V_{i}(\text{Dynamique Interne})$$
+  La "Page" n'est que la projection simultanée (le snapshot) de l'ensemble des $S_i$ à un instant $t$ de l'interface publique.
+- **La Discontinuité vs Continuité :** Le "flou" ou la "probabilité" que nous observons macroscopiquement provient du fait que nous ne pouvons pas suivre le vecteur $V_i$ de chaque singularité. Nous ne voyons que le résultat collectif (la page), perdant ainsi l'information sur le "chemin" emprunté par chaque singularité entre deux états.
+- 
+- **Conclusion :** Le champ temporel est l'outil qui permet au système de "mesurer" la différence entre deux états. Sans cette "découpe" artificielle en pages, le système serait incapable de distinguer une entité de son environnement.
+
+
 
 ### B. Démultiplication des Interactions (vs Décohérence)
 - L'interaction est une physique de la résonance des champs.

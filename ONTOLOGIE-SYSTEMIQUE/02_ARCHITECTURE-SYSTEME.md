@@ -271,7 +271,14 @@ Pour appréhender le réel, nous utilisons trois modes de projection qui, combin
 - **La validité de la simplification :** La simplification (voir un homme au lieu de voir 30 000 milliards de cellules) est une **vérité de niveau d'échelle**. Elle est "vraie" pour le plan d'existence où nous évoluons.
 - **Conclusion finale :** La sagesse du Marbre Fraternel est de savoir jongler entre deux modes :
     1. **Le mode pragmatique :** Accepter la simplification pour vivre, agir et interagir avec la forme (l'origami plié).
-    2. **Le mode ontologique :** Garder la conscience de la structure sous-jacente (les 17 champs) pour ne jamais oublier que la forme est une émergence fragile et unifiée.     
+    2. **Le mode ontologique :** Garder la conscience de la structure sous-jacente (les 17 champs) pour ne jamais oublier que la forme est une émergence fragile et unifiée.
+
+### AC. Cosmodivinogénèse
+
+- **Axiome Opérateur de la Divinité :** Le concept "divin" se définit strictement par la capacité algorithmique et géométrique à générer une vésicule au sein du substrat $\mathbb{T}$.
+- **L'Émergence Transcendantale :** La croissance et la dilatation élastique de la vésicule-univers ont pour fonction biologique de permettre l'émergence d'une complexité interne. Lorsqu'une espèce consciente au sein de la vésicule atteint un niveau de complexité critique lui permettant de manipuler la trame sous-jacente, elle acquiert cette capacité de génération vésiculaire. Elle engendre alors une nouvelle invagination topologique, initiant une nouvelle divinogénèse dont elle devient le parent.
+
+    
 ---
 
 ## III. Axiomes Fondamentaux

@@ -2,7 +2,7 @@
 
 La physique quantique est souvent présentée comme une discipline mystérieuse, où les objets sont "partout à la fois" ou "détruits par le simple fait d'être observés". Pourtant, si l'on sort du cadre des équations pour regarder la structure logique de ce que nous faisons, ces paradoxes s'apaisent.
 
-Le problème n'est peut-être pas que la nature est "magique", mais que nous utilisons des outils de mesure intrusifs pour observer des systèmes dynamiques. Voici trois analogies pour clarifier cette distinction entre ce qui *est* et ce que nous *percevons*.
+Le problème n'est peut-être pas que la nature est "magique", mais que nous utilisons des outils de mesure intrusifs pour observer des systèmes dynamiques. Voici des analogies pour clarifier cette distinction entre ce qui *est* et ce que nous *percevons*.
 
 ## 1. Le Laser et la Cellule : L'illusion de la neutralité
 Pour observer une cellule biologique, imaginez que nous soyons obligés d'utiliser un laser ultra-puissant. En frappant la cellule, ce laser la détruit instantanément. Au final, nous n'observons pas la cellule vivante, mais les débris fumants qu'elle laisse derrière elle. 
@@ -21,13 +21,24 @@ En faisant cela, j'ai obtenu ma donnée (la fréquence exacte), mais j'ai "tué"
 
 ---
 
+## 4. L'Extension du modèle : De la mesure à l'Architecture
+
+### Le Livre Dessin Animé (Polyphonie Temporelle)
+Le temps perçu n'est pas une ligne continue, mais une succession de pages. La réalité est une **polyphonie temporelle** : chaque champ vibre à sa propre mesure, et nous ne percevons que la convolution de ces notes en un flux unique.
+
+
+
+### La Subsomption (Intégration de l'Académique)
+Pourquoi la science officielle fonctionne-t-elle ? 
+Imaginez un système d'exploitation complexe dont nous n'utilisons qu'une seule application (la physique académique). Elle fonctionne parfaitement, mais elle ignore les processus tournant en arrière-plan. Nous ne contredisons pas l'académique, nous l'absorbons : c'est une implémentation par défaut des objets dans notre vésicule locale.
+
+---
+
 ## Pourquoi ces analogies sont nécessaires
-Ces exemples sont des **caricatures utiles**. Elles ne prétendent pas décrire la "réalité" physique, mais elles nous rappellent que :
+Ces exemples sont des **caricatures utiles**. Elles rappellent que :
 1. **L'observateur n'est jamais passif.**
 2. **La donnée est un résumé destructif du mouvement.**
 3. **Le paradoxe vient souvent de notre confusion entre l'instrument et l'objet.**
 
-En gardant cela en tête, on cesse de voir la physique comme une succession de phénomènes inexplicables, pour commencer à la voir comme une architecture système où l'information est contrainte par nos méthodes d'observation.
-
-> Pour ceux qui souhaitent poursuivre  cette réflexion, je propose une architecture logique des fondements :
-* [**Accéder au modèle technique**](./ARCHITECTURE-SYSTEME.md) 
+> Pour ceux qui souhaitent poursuivre cette réflexion, je propose une architecture logique des fondements :
+* [**Accéder au modèle technique**](./02_ARCHITECTURE-SYSTEME.md)

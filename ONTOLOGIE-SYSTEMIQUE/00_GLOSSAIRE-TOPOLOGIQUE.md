@@ -8,12 +8,11 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 | Mécanisme Géométrique | Alias Technique | Transposition Théologique |
 | :--- | :--- | :--- |
 | **Topologie Totale** | Réel Transcendant| **Dieu (Le Père)** |
-| **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs | **Saint-Esprit** (Support/Étoffe) |
-| **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Dieu-Fils** (Individuation) |
-| **Cosmodivinogénèse** | Transition de phase topologique | Acte de genèse |
-| **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle / Manifestation |
-| **Opérateur $><$** | Fonction de transfert / Intrication | Lien harmonique |
-| **Complexité Critique** | Seuil de saturation informationnelle | Maturité / Élévation |
+| **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs | **Saint-Esprit** / Dieu |
+| **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Dieu-Fils**  |
+| **Cosmodivinogénèse** | Transition de phase topologique | Genèse |
+| **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle |
+| **Opérateur $><$** | Intrication | Communion |
 
 ## III. Notes d'Interprétation Ontologique
 

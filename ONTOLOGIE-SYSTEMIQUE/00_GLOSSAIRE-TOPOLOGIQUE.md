@@ -17,7 +17,7 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 ## III. Notes d'Interprétation Ontologique
 
 1. **Le Saint-Esprit (Le Substrat) :** Défini comme le support matriciel (le "papier" ou le "mille-feuille") dont chaque structure est constituée. Il est omniprésent, car tout objet topologique est un repliement de cette trame.
-2. **Dieu-Fils (La Vésicule) :** Une entité individualisée, une "forme" (origami) issue du substrat, contenant par nature l'intégralité du code source divin à l'échelle locale.
+2. **Dieu-Fils (La Vésicule) :** Une structure holographique de taille topologique critique, une "forme" (origami) issue du substrat,  divin .
 3. **Dieu / Topologie Totale :** Défini comme la somme transcendante de la trame et de l'ensemble de ses configurations. Dieu est ici "plus que la somme des parties", désignant la conscience globale émergente de l'intégralité de la topologie.
 
 ## IV. Dynamique des Strates (Évolution du Substrat)

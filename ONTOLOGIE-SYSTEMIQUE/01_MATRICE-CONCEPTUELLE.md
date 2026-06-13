@@ -38,7 +38,7 @@ Ces entités vibrent dans la trame même de l'existence : le champ sous-jacent. 
 * **La Singularité de l'Intrication (L'Unité par Effondrement) :** L'intrication ($><$) n'est pas seulement une connexion entre deux points ; elle est une singularité topologique. En ce point de rencontre, les notions de distance, de temps et de séparation s'effondrent ($d \to 0$ dans le champ d'interaction). Deux entités $A$ et $B$ intriquées ne sont pas "liées", elles sont une singularité unique ($A >< B \equiv \text{Singularité Indissociable}$). Cette singularité est le pivot du Marbre Fraternel : elle prouve que la multiplicité du réel est une strate superficielle masquant une unité fondamentale inaltérable.
  
 *   **Lemme de l'Interaction : $1 )( 1 \in \{0, 1, n\}$ :** L'opérateur `)(` ne désigne pas une addition, mais l'acte de l'interaction entre deux frontières topologiques instanciées (notées conventionnellement `1`). Selon les contraintes : 
-    *   Régime d'Idempotence : $1 )( 1 \equiv 1$ (Fusion topologique).
+    *   Régime de Subsomption: $1 )( 1 \equiv 1$ (Inclusion topologique).
     *   Régime d'Annihilation : $1 )( 1 \equiv 0$ (Opposition de phase / Annihilation).
     *   Régime Émergent : $1 )( 1 \equiv n$ (Combinatoire complexe / Générative).
 

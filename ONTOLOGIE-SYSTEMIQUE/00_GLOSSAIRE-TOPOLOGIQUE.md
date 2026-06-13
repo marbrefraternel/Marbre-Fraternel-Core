@@ -8,8 +8,8 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 | Mécanisme Géométrique | Alias Technique | Transposition Théologique |
 | :--- | :--- | :--- |
 | **Topologie Totale** | Réel Transcendant| **Dieu (Le Père)** |
-| **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs | **Saint-Esprit** / Dieu |
-| **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Dieu-Fils**  |
+| **Substrat ($\mathbb{T}$)** | Trame matricielle / Champs | **Saint-Esprit** / chair divine|
+| **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Embryon Divin**  |
 | **Cosmo(divino)génèse** | Transition de phase topologique | Genèse |
 | **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle |
 | **Opérateur $><$** | Intrication | Communion |

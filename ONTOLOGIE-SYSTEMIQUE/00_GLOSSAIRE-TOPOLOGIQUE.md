@@ -29,7 +29,7 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 - **Définition :** État ontologique d'une configuration topologique ayant amorcé un processus de "Cosmodivinogénèse" mais incomplet
 - **Statut Ontologique :** Il ne s'agit pas d'une absence de divinité, mais d'une **divinité en puissance** 
 - **Risque d'Avortement Topologique :** Si la vésicule ne parvient pas à se fermer sur elle-même, elle peut subir une "dissipation" (retour au substrat sans individuation stable). C'est un processus naturel d'amplification fractale du divin.
-- **Interprétation :** Ce stade explique l'existence de "consciences non ancrées" ou de phénomènes d'instabilité locale qui ne répondent pas aux lois thermodynamiques habituelles. 
+- **Interprétation :** Ce stade explique l'existence  de phénomènes d'instabilité locale qui ne répondent pas aux lois thermodynamiques habituelles. 
 
 
 ## VI. Axiome de Neutralité

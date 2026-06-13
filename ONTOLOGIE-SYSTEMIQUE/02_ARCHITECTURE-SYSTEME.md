@@ -19,11 +19,11 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
 3. **Interactions :** Résonance harmonique et fonctions de transfert géométriques entre topologies.
 
 ### C. Niveau fondamental (Ontologie Fondamentale)
-1. **Intégration et Subsomption de l'Académique :** - **La position du Marbre :** Le modèle académique (17 champs + 1 substrat) n'est pas erroné, il est **subsomé**. Il constitue une instance stable et documentée du système au sein de notre vésicule $\mathbb{R}$.
+1. **Intégration et Subsomption de l'Académique :** - **La position du Marbre :** Le modèle académique (17 champs + 1 substrat) n'est pas altéré, il est **subsomé**. Il constitue une instance stable au sein de notre vésicule $\mathbb{R}$.
    - **L'Implémentation du Modèle :** Plutôt que de limiter le réel à 17 champs, le Marbre considère que l'objet possède l'interface permettant d'implémenter ces 17 champs, et potentiellement d'autres, selon les besoins de sa topologie. 
    - **Formalisme d'Absorption :** $S_{académique} \subset S_{Marbre}$. 
-   - **Logique d'Interface :** L'académique devient le "standard" d'interaction de notre environnement. Notre modèle ne le rejette pas, il l'absorbe en expliquant *pourquoi* ce standard existe : il s'agit d'une implémentation par défaut des objets au sein de notre architecture spatio-temporelle ($2 \text{ substrats}$). 
-   - **L'Équation Souple :** $n \text{ champs} >< 2 \text{ substrats} \equiv \text{Réalité Émergente}$. 
+   - **Logique d'Interface :** L'académique est le "standard" d'interaction de notre environnement. Notre modèle  l'absorbe en expliquant *pourquoi* ce standard existe : il s'agit d'une implémentation par défaut des objets au sein de notre architecture spatio-temporelle ($2 \text{ substrats}$). 
+   - **L'Équation Souple :** $n \text{ champs} >< 2 \text{ substrats} \equiv \text{Réalité}$. 
      Dans la norme observée : $n \equiv 17$. Le système "académique" est donc une valeur constante, un paramètre de configuration locale de notre vésicule.
 
 2. **La Nature Topologique (Élimination du Truisme) :**

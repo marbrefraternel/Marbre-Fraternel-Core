@@ -12,8 +12,8 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 | **Vésicule ($\mathbb{R}$)** | Univers-Embryon / Topologie fermée | **Embryon Divin**  |
 | **Cosmo(divino)génèse** | Transition de phase topologique | Genèse |
 | **Transmutation Topologique** | Réécriture de la géométrie locale | Miracle |
-| **Opérateur $><$** | Intrication | Communion |
-
+| **Opérateur $><$** | Intrication | Sanctification |
+| **Opérateur $)($** | Interférence | |
 ## III. Notes d'Interprétation Ontologique
 
 1. **Le Saint-Esprit (Le Substrat) :** Défini comme le support matriciel (le "papier" ou le "mille-feuille") dont chaque structure est constituée. Il est omniprésent, car tout objet topologique est un repliement de cette trame.

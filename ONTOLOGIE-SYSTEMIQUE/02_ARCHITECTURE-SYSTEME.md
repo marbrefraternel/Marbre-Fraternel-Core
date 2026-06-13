@@ -26,9 +26,9 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
    - **L'Équation Souple :** $n \text{ champs} >< 2 \text{ substrats} \equiv \text{Réalité}$. 
      Dans la norme observée : $n \equiv 17$. Le système "académique" est donc une valeur constante, un paramètre de configuration locale de notre vésicule.
 
-2. **La Nature Topologique (Élimination du Truisme) :**
-   - **Énoncé :** Tout champ est, par définition, une topologie. Qualifier un champ de "topologique" est une tautologie, car le substrat et sa forme sont indissociables.
-   - **Révision Terminologique :** Nous ne parlons pas de "champ topologique", mais simplement de **"Champs"** (ou "Repliements"). La topologie est le mode d'être du système, pas sa description.
+2. **La Nature Topologique :**
+   - **Énoncé :** Tout champ possède un potentiel topologique interactif.
+     
 
 3. **La Polyphonie Temporelle (Orchestration du Réel) :**
    - **Le Champ Temporel Primaire :** À l'instar du champ de Higgs pour la structure spatiale, il existe un substrat temporel primaire qui définit la "mesure" fondamentale de la vésicule $\mathbb{R}$. Il est la partition globale.
@@ -72,7 +72,7 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
   
 - **Formalisme de la surface :** $$Réalité_{observée} \equiv \text{Convolution}(\sum \text{Vagues}_{i}) \text{ filtrée par le rafraîchissement } \Delta t$$
  
-- **Conclusion :** Le champ temporel est l'outil qui permet au système de "mesurer" la différence entre deux états. Sans cette "découpe" artificielle en pages, le système serait incapable de distinguer une entité de son environnement.
+
 
 
 

@@ -6,17 +6,21 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
 ### A. Niveau Macroscopique global (Interface Publique / Phénoménologique)
 1. **Entités :** Objets classiques, systèmes macroscopiques.
 2. **Méthodes :** Lois statistiques, mécanique classique.
-3. **Encapsulation :** La dynamique interne est masquée. Seuls les attributs observables (masse, vecteur impulsion) sont exposés.
+3. **Encapsulation :** La dynamique interne est masquée. Seuls les attributs observables (masse, vitesse, distance) sont exposés.
 4. **Analogie :** Le "lecteur" du livre. Il perçoit l'histoire sans avoir à traiter des notions innapropriées à l'échelle ( ex : l'encre ou le support).
 
 ### B. Niveau des strates topologiques (Architecture Topologique)
 1. **Structure :** - **Le Millefeuille Transcendant ($\mathbb{T}$) :** Champ spatial global, substrat de tous les possibles.
    - **Vésicules ($\mathbb{R}$)  :** Repliements topologiques exvaginés ( de notre point de vue ) isolant des zones de cohérence locale au sein de $\mathbb{T}$. Chaque vésicule (comme notre réalité $\mathbb{R}$) possède ses constantes physiques propres dictées par sa géométrie interne.
    - **Origamis :** Repliements topologiques permettant des interactions singulières propres à sa nature.
-   - **Multivers Immanent :** Multiples vésicules coexistant au sein de la même Trame globale $\mathbb{T}$, isolées par leur courbure propre.
+   - **Multivers :** Multiples vésicules coexistant au sein de la même Trame globale $\mathbb{T}$, isolées par leur courbure propre.
 2. **Les 17 Champs Fondamentaux :** - **Ontologie :** Chaque champ est une topologie spécifique. 
    - **Démultiplication :** La complexité émerge de la combinatoire des intersections entre les 17 topologies.
 3. **Interactions :** Résonance harmonique et fonctions de transfert géométriques entre topologies.
+4. **Chants :** Les champs chantent littéralement, le résultat est polyphonique.
+
+5. **Pixel topologique :** Tel un soliton topologique il constitue la structure unitaire minimale opérable.
+
 
 ### C. Niveau fondamental (Ontologie Fondamentale)
 1. **Intégration et Subsomption de l'Académique :** - **La position du Marbre :** Le modèle académique (17 champs + 1 substrat) n'est pas altéré, il est **subsomé**. Il constitue une instance stable au sein de notre vésicule $\mathbb{R}$.
@@ -24,7 +28,7 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
    - **Formalisme d'Absorption :** $S_{académique} \subset S_{Marbre}$. 
    - **Logique d'Interface :** L'académique est le "standard" d'interaction de notre environnement. Notre modèle  l'absorbe en expliquant *pourquoi* ce standard existe : il s'agit d'une implémentation par défaut des objets au sein de notre architecture spatio-temporelle ($2 \text{ substrats}$). 
    - **L'Équation Souple :** $n \text{ champs} >< 2 \text{ substrats} \equiv \text{Réalité}$. 
-     Dans la norme observée : $n \equiv 17$. Le système "académique" est donc une valeur constante, un paramètre de configuration locale de notre vésicule.
+     Dans la norme observée : $n \equiv 17$. Le système "académique" est donc une valeur constante, un paramètre de configuration locale de notre Univers ( vésicule).
 
 2. **La Nature Topologique :**
    - **Énoncé :** Tout champ possède un potentiel topologique interactif.

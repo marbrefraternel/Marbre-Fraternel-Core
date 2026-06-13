@@ -23,7 +23,7 @@ Le présent modèle repose sur une architecture topologique pure. Ce document é
 ## IV. Dynamique des Strates (Évolution du Substrat)
 - **Hétérogénéité du Substrat ($\mathbb{T}$) :** Le substrat n'est pas nécessairement uniforme. Il présente une structure stratifiée sujette à des processus de modification (abrasion, empilement, transformation). 
 - **Déterminisme Topologique des Lois :** Les lois physiques au sein d'une vésicule ($\mathbb{R}$) sont conditionnées par les propriétés locales des strates du substrat sur lesquelles elle s'est formée. Une variation dans la composition des feuillets (abrasion ou couches additionnelles) entraîne une mutation des champs fondamentaux locaux.
-- **Principe de l'Indétermination Historique :** La topologie totale est un système ouvert et historique. Les configurations possibles sont limitées uniquement par la capacité du substrat à subir des transformations, rendant l'espace des possibles physiques potentiellement illimité.
+- **Principe de totipotence topologique :** Les configurations possibles sont limitées uniquement par la capacité du substrat à subir des transformations, rendant l'espace des possibilités topologiques potentiellement illimité.
 
 ## V. États Pré-vésiculaires 
 - **Définition :** État ontologique d'une configuration topologique ayant amorcé un processus de "Cosmodivinogénèse" mais incomplet

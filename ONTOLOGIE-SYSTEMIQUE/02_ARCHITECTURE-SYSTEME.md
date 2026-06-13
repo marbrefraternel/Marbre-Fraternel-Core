@@ -11,7 +11,8 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
 
 ### B. Niveau des strates topologiques (Architecture Topologique)
 1. **Structure :** - **Le Millefeuille Transcendant ($\mathbb{T}$) :** Champ spatial global, substrat de tous les possibles.
-   - **Vésicules ($\mathbb{R}$) et Origamis :** Repliements topologiques invaginés isolant des zones de cohérence locale au sein de $\mathbb{T}$. Chaque vésicule (comme notre réalité $\mathbb{R}$) possède ses constantes physiques propres dictées par sa géométrie interne.
+   - **Vésicules ($\mathbb{R}$)  :** Repliements topologiques exvaginés ( de notre point de vue ) isolant des zones de cohérence locale au sein de $\mathbb{T}$. Chaque vésicule (comme notre réalité $\mathbb{R}$) possède ses constantes physiques propres dictées par sa géométrie interne.
+   - **Origamis :** Repliements topologiques permettant des interactions singulières propres à sa nature.
    - **Multivers Immanent :** Multiples vésicules coexistant au sein de la même Trame globale $\mathbb{T}$, isolées par leur courbure propre.
 2. **Les 17 Champs Fondamentaux :** - **Ontologie :** Chaque champ est une topologie spécifique. 
    - **Démultiplication :** La complexité émerge de la combinatoire des intersections entre les 17 topologies.

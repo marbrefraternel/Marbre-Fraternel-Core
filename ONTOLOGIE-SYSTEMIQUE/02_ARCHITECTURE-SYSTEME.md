@@ -47,7 +47,7 @@ Le système adopte un principe de parcimonie interactionnelle. (modélisation du
    - **Polyphonie :** Superposition de battements primaires, secondaires et tertiaires (Partition de réalité).
 7. **Le Champ spatio-temporel :** Produit émergent, convolution des deux champs précédents.
    - **Analogie :** Tel un livre dessin animé dont les pages seraient le champ temporel et les dessins le champ spatial. Chaque nouvelle page émergeant de la précédente dans un flux semblant continu.
-   - **Discrétisation :** La réalité est une convolution entre la géométrie spatiale et le flux temporel (activation séquentielle des singularités).
+   - **Résultante :** La réalité est une convolution entre la géométrie spatiale et le flux temporel (activation séquentielle des singularités).
 8. **Le Champ de Higgs et les 16 autres champs (Total 17) :** - ***Le Champ de Higgs :** Matrice topologique servant de gabarit structurel. Génère l'inertie par interaction des repliements.
    - ***Les 16 autres champs :** Tels des trames evanescentes, de mailles différentes et de topologies propres, elles interagissent entre elles, avec le champ de Higgs, avec les champs spatiaux et temporel, selon leur ontologie (topologie/nature).
  

@@ -9,11 +9,11 @@ Pour guider l'esprit à travers les différentes échelles du réel, cette matri
 
 ---
 
-### 1. Postulat de la Matérialisation (Le Plausible)
+### 1. Mécanique de l'hypothèse (Le Plausible)
 Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante à des problématiques ou des observations du réel, elle quitte le statut de pure fiction pour acquérir le statut de **plausible** (au même titre que d'autres structures également satisfaisantes). L'absence de preuve instrumentale immédiate ne l'invalide pas ; elle représente uniquement la limite de nos capteurs actuels.
 
 ### 2. Loi de Subsomption Topologique (L'Englobement par Échelle)
-Les théories et les modélisations du monde ne se remplacent pas en se détruisant de façon anarchique ; elles s'ordonnent par l'inclusion de leurs domaines de validité respectifs. Cela définit une hiérarchie de granulométrie (d'échelle, de zoom) et non une hiérarchie de valeur intrinsèque. 
+Les théories et les modélisations du monde ne se remplacent pas en se détruisant de façon anarchique ; elles s'ordonnent par l'inclusion de leurs domaines de validité respectifs. Cela définit une hiérarchie de granulométrie et non une hiérarchie de valeur intrinsèque. 
 * Une théorie $B$ est dite de niveau supérieur à une théorie $A$ si et seulement si la topologie de $A$ est entièrement incluse, expliquée et préservée dans la capacité de contenu de $B$ ($A \subset B$), tout en ouvrant de nouveaux voisinages explicatifs.
 * **L'Analogie Newton / Einstein :** La physique de Newton n'est pas « fausse » ; elle est parfaitement vraie et stable dans son domaine de définition (les vitesses lentes et les masses faibles). Einstein n'a pas détruit Newton, il a tracé la frontière de validité de Newton et a construit une topologie plus grande (la Relativité) tout autour. L'erreur humaine ne réside jamais dans ce qui est vu et validé localement, elle réside dans l'écueil de l'extrapolation universelle (vouloir appliquer la règle locale en dehors de son domaine de définition).
 

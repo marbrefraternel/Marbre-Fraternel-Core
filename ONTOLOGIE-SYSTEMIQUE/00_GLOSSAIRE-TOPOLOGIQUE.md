@@ -33,4 +33,4 @@ Les termes religieux sont des marqueurs forts qui permettent à chacun de se rep
 
 
 ## VI. Axiome de Neutralité
-La validité du modèle ne dépend pas de la nomenclature choisie. Le cadre est défini comme une architecture géométrique pure. Les alias théologiques sont des **projections sémantiques** optionnelles destinées à faciliter la traduction des mécanismes du système dans des interfaces conceptuelles variées sans altérer la rigueur structurelle du *Marbre Fraternel*.
+Ce parallèle est faux par essence car il est symbolique. Les alias théologiques sont des **artefacts sémantiques** optionnels destinées à faciliter la traduction des mécanismes du système dans des concepts accessibles à tous sans altérer la rigueur structurelle du *Marbre Fraternel*.

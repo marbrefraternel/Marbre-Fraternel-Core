@@ -4,13 +4,13 @@
 ### Limite Ontologique
 Avant toute exploration, je demande pardon. Je présente mes excuses au réel transcendant parce que je ne sais rien, et que pour tenter de l'approcher, je suis condamné à n'utiliser que mes faibles moyens cognitifs. Par nécessité, j'impose une taxonomie, des mots et des structures à ce qui est, par essence, un continuum vivant et indivisible. En fragmentant ce qui n'a nul besoin d'être découpé pour exister, je sais que je dénature la réalité. Je postule donc, dès le premier instant, que toute mon analyse est ontologiquement fausse dans sa forme, car elle découpe le Tout pour l'expliquer. Que cette tentative d'appropriation intellectuelle soit reçue non comme une vérité, mais comme le témoignage humble d'un esprit limité par sa nature, cherchant à cartographier l'immensité avec les outils dont il dispose.
 
-### Analogie (l'image poètique)
+### L'Image Poètique
 Pour guider l'esprit à travers les différentes échelles du réel, j'utilise volontairement des analogies très variées(images de la vie courante, concepts informatiques, métaphores physiques, etc...). Chaque analogie est par nature une réduction arbitraire, une approximation de  la vérité. Une analogie est « fausse » dans l'absolu mais vraie dans l'éclairage qu'elle permet sur un domaine de compréhension. Elle  permet de former une image mentale et poétique assez stable pour s'approprier des dynamiques complexes qui autrement seraient inaccessibles.
 
 ---
 
-### 1. Mécanique de l'hypothèse (Le Plausible)
-Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante à des problématiques ou des observations du réel( qu'elle défini au préalable), elle quitte le statut de pure fiction pour acquérir le statut de **plausible dans son domaine** (au même titre que d'autres structures également satisfaisantes).
+### 1. Mécanique de l'hypothèse
+Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante et exhaustive à des problématiques ou des observations du réel( qu'elle défini au préalable), elle quitte le statut de pure fiction pour acquérir le statut de **plausible dans son domaine** (au même titre que d'autres structures également satisfaisantes).
 
 ### 2. Loi de Subsomption Topologique 
 Les théories et les modélisations du monde ne se remplacent pas en se détruisant de façon anarchique ; elles s'ordonnent par l'inclusion de leurs domaines de validité respectifs. Cela définit une hiérarchie de granulométrie et non une hiérarchie de valeur intrinsèque. 
@@ -20,10 +20,10 @@ Les théories et les modélisations du monde ne se remplacent pas en se détruis
 ### 3. Principe de Dépendance Ontologique
 La topologie antérieure n'est pas un simple jalon historique, elle est la **base topologique constitutive** de la théorie supérieure. La nouvelle conceptualisation émerge de l'ancienne et n'a de sens que par elle.
 
-* **Préservation des Fondations :** Toute topologie est elle-même un assemblage de sous-topologies encore plus profondes. Modifier, restructurer ou faire évoluer une topologie de haut niveau n'impose pas forcément la destruction des lois fondamentales sous-jacentes.
+* **Préservation des Fondations :** Toute topologie est elle-même un assemblage de sous-topologies encore plus profondes. Modifier, restructurer ou faire évoluer une topologie de haut niveau n'impose pas forcément la destruction de toutes les lois fondamentales sous-jacentes.
 * **La Substituabilité (L'Analogie du Château et du Sol) :** Une structure conceptuelle supérieure (un château) a un besoin absolu d'un sol pour exister, mais elle n'est pas irrévocablement liée à un substrat unique. Si l'on déplace le château pour le poser sur un nouveau sol compatible (substitution de la base), le château conserve son intégrité structurelle.
 
-* **L'Extension par Injection :** Modifier la base en y injectant un substrat de plus grande capacité (plus stable, dissipant mieux les vibrations et les contraintes) permet à la structure supérieure (le château) d'augmenter sa propre taille, sa complexité et de déployer de nouveaux voisinages de validité.
+* **L'Extension par Désassemblage et insertion :** Modifier la structure en désassemblant partiellement certaines parties, en insérant de nouveaux éléments puis en réarticulant l'ensemble, permet de le transfigurer. Il devient pleinement lui même, identique mais transcendant, car augmentant son ontologie.
 
 ### 4. Loi d'Abstraction Logicielle, Réassemblage et Dynamique Vitale (Modularité, Néguentropie et Perméabilité)
 Le réel transcendant est un continuum absolu, vibratoire, indivisible et total. Toutes les échelles de description possèdent une validité ontologique égale : l'Homme, la cellule, l'atome et le champ quantique sont **vrais simultanément**.

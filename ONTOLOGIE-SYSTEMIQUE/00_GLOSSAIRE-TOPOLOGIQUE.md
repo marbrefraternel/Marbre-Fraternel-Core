@@ -1,4 +1,4 @@
-# 00_GLOSSAIRE_TOPOLOGIQUE.md : Système d'Analogie Religieuse
+3# 00_GLOSSAIRE_TOPOLOGIQUE.md : Système d'Analogie Religieuse
 
 ## I. Philosophie du Système
 Les termes religieux sont des marqueurs forts qui permettent à chacun de se representer la réalité, qu'ils soient croyants ou non. Ce  système taxonomique permettant d'illustrer  les mécanismes géométriques du *Marbre Fraternel* en termes universels. Chaque mécanisme possède une définition classique  et une proposition théologique permettant d'accueillir chacun.
@@ -33,4 +33,4 @@ Les termes religieux sont des marqueurs forts qui permettent à chacun de se rep
 
 
 ## VI. Axiome de Neutralité
-Ce parallèle est faux par essence car il est symbolique. Les alias théologiques sont des **artefacts sémantiques** optionnels destinées à faciliter la traduction des mécanismes du système dans des concepts accessibles à tous sans altérer la rigueur structurelle du *Marbre Fraternel*.
+Ce parallèle est limité et incomplet par essence car il est symbolique. Les alias théologiques sont des **artefacts sémantiques** optionnels destinées à faciliter la traduction des mécanismes du système dans des concepts accessibles à tous sans altérer la rigueur structurelle du *Marbre Fraternel*.

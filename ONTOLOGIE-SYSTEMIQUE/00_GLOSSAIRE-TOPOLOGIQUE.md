@@ -1,7 +1,7 @@
-# 00_GLOSSAIRE_TOPOLOGIQUE.md : Système de Transposition Nominale
+# 00_GLOSSAIRE_TOPOLOGIQUE.md : Système d'Analogie Religieuse
 
 ## I. Philosophie du Système
-Le présent modèle repose sur une architecture topologique pure. Ce document établit un système taxonomique permettant de transposer les mécanismes géométriques du *Marbre Fraternel* en termes métaphysiques. Chaque mécanisme possède une définition technique  et une référence théologique permettant d'accueillir chacun.
+Les termes religieux sont des marqueurs forts qui permettent à chacun de se representer la réalité, qu'ils soient croyants ou non. Ce  système taxonomique permettant d'illustrer  les mécanismes géométriques du *Marbre Fraternel* en termes universels. Chaque mécanisme possède une définition classique  et une proposition théologique permettant d'accueillir chacun.
 
 ## II. Table de Correspondance (Hiérarchie Structurelle)
 

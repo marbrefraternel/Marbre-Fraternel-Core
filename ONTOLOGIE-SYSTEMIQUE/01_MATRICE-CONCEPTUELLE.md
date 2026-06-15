@@ -4,13 +4,13 @@
 ### L'Aveu de Finitude
 Avant toute exploration, je demande pardon. Je présente mes excuses au réel transcendant parce que je ne sais rien, et que pour tenter de l'approcher, je suis condamné à n'utiliser que mes faibles moyens cognitifs. Par nécessité, j'impose une taxonomie, des mots et des structures à ce qui est, par essence, un continuum vivant et indivisible. En fragmentant ce qui n'a nul besoin d'être découpé pour exister, je sais que je dénature la réalité. Je postule donc, dès le premier instant, que toute mon analyse est ontologiquement fausse dans sa forme, car elle découpe le Tout pour l'expliquer. Que cette tentative d'appropriation intellectuelle soit reçue non comme une vérité, mais comme le témoignage humble d'un esprit limité par son ontologie cherchant à cartographier l'immensité avec les outils dont il dispose.
 
-### Analogie (La Caricature Nécessaire)
-Pour guider l'esprit à travers les différentes échelles du réel, j'utilise volontairement des analogies macroscopiques (images de la vie courante, concepts informatiques, métaphores physiques, etc...). Chaque analogie est par nature une réduction arbitraire, une approximation technique et une caricature de la vérité. J'acte sciemment qu'une analogie est « fausse » dans l'absolu. Cependant, elle  permet de former une image mentale assez stable pour appréhender des dynamiques complexes qui seraient autrement inaccessibles.
+### Analogie (l'image poètique)
+Pour guider l'esprit à travers les différentes échelles du réel, j'utilise volontairement des analogies très variées(images de la vie courante, concepts informatiques, métaphores physiques, etc...). Chaque analogie est par nature une réduction arbitraire, une approximation de  la vérité. Une analogie est « fausse » dans l'absolu mais vraie dans l'éclairage qu'elle permet sur un domaine de compréhension. Elle  permet de former une image mentale et poétique assez stable pour s'approprier des dynamiques complexes qui autrement seraient inaccessibles.
 
 ---
 
 ### 1. Mécanique de l'hypothèse (Le Plausible)
-Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante à des problématiques ou des observations du réel, elle quitte le statut de pure fiction pour acquérir le statut de **plausible** (au même titre que d'autres structures également satisfaisantes). L'absence de preuve instrumentale immédiate ne l'invalide pas ; elle représente uniquement la limite de nos capteurs actuels.
+Si une structure théorique est conceptuellement possible, logique, cohérente, et qu'elle répond de façon satisfaisante à des problématiques ou des observations du réel( qu'elle défini au préalable), elle quitte le statut de pure fiction pour acquérir le statut de **plausible dans son domaine** (au même titre que d'autres structures également satisfaisantes).
 
 ### 2. Loi de Subsomption Topologique 
 Les théories et les modélisations du monde ne se remplacent pas en se détruisant de façon anarchique ; elles s'ordonnent par l'inclusion de leurs domaines de validité respectifs. Cela définit une hiérarchie de granulométrie et non une hiérarchie de valeur intrinsèque. 

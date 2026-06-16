@@ -1,4 +1,4 @@
-# Ontologie de l'Escargot & Métaphysique de la Coquille
+# Ontologie de l'Escargot - Métaphysique de la Coquille
 ## Le Déploiement de la 0D
 
 > *À l'abri précaire, dans notre coquille, nous pensons gravir le monde. N'aurions-nous pas simplement parcouru lentement un caillou ?*

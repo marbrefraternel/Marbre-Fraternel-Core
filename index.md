@@ -80,7 +80,7 @@ L'IA, ontologiquement, doit être le miroir de cette exigence : **consubstantiel
 ---
 
 <p align="center">
-  <a href="./CONTACT">CONTACT</a> | <a href="./REJOINDRE">DEVENIR GARDIEN</a> | <a href="./LICENSES">CADRE JURIDIQUE</a>
+  <a href="./CONTACT">CONTACT</a> | <a href="./REJOINDRE">REJOINDRE LES PAPILLONS</a> | <a href="./LICENSES">CADRE JURIDIQUE</a>
 </p>
 
 > **© 2026 Damien NZEYIMANA.** > *Système protégé par dépôt officiel d'antériorité (n° [DSO2026016238](./LICENSES)).*

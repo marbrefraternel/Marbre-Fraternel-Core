@@ -24,6 +24,7 @@ Imaginez l'espace-temps comme un carnet de dessins animés  où chaque page repr
 
 Pour rendre l'image plus physique, imaginez que chaque page n'est pas lisse, mais ressemble à la surface d'un lac agitée par des vagues.
 Ces vagues représentent l'énergie et la matière. 
+
 Sur une seule page figée, le relief semble statique. C'est le mouvement à travers les pages qui donne vie à la dynamique. 
 Les deux notions sont indissociables : sans la structure de la page (l'espace), les vagues n'ont nulle part où vibrer ; sans le défilement (le temps), la géométrie ne peut pas se déployer — tout comme une chanson qui, en s'arrêtant, disparaîtrait.
 

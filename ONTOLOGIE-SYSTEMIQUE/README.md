@@ -1,14 +1,14 @@
 # Ontologie de l'Escargot & Métaphysique de la Coquille
 ## Le Déploiement de la 0D
 
-> *A l'abri précaire, dans notre coquille, nous parcourons lentement un monde qui semble bien n'être qu'un caillou.*
+> *A l'abri précaire, dans notre coquille, nous  pensons gravir le monde. N'aurions nous pas simplement parcouru lentement un caillou ?*
 
 ---
 
 ## 🏛️ Le Manifeste de l'Escargot
 
 Ceci n'est que l'exploration d'un escargot, suis je seul dans ma coquille, le monde n'est-il qu'une illusion ? Tout ceci a t-il un sens ?  
-Je ne peux le découvrir qu'en explorant. Je vous invite dans l'aventure.
+Je ne peux le découvrir qu'en explorant. Je vous invite à partager cette aventure.
 
 ---
 
@@ -20,4 +20,4 @@ Je postule que la réalite est une image vivante et pas nature polymorphe, que r
 
 
 ---
-*« La vérité n'est pas un lieu mais un chemin que l'on ne cesse de parcourir. »*
+*« La vérité n'est pas un lieu mais un chemin que l'on ne cesse lentement de parcourir. »*

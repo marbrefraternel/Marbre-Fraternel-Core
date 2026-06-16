@@ -1,4 +1,4 @@
-# Au-delà du mystère : Quelques analogies pour penser la physique autrement
+# Quelques analogies pour penser la physique autrement
 
 La physique quantique est souvent présentée comme une discipline mystérieuse, où les objets sont "partout à la fois" ou "détruits par le simple fait d'être observés". Pourtant, si l'on sort du cadre des équations pour regarder la structure logique de ce que nous faisons, ces paradoxes s'apaisent.
 

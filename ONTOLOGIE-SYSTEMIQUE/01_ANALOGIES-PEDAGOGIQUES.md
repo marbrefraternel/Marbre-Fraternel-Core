@@ -23,20 +23,11 @@ En faisant cela, j'ai obtenu ma donnée (la fréquence exacte), mais j'ai "tué"
 
 ---
 
-## 4. L'Extension du modèle : De la mesure à l'Architecture
 
-### Le Livre Dessin Animé (Polyphonie Temporelle)
-Le temps perçu n'est pas une ligne continue, mais une succession de pages. La réalité est une **polyphonie temporelle** : chaque champ vibre à sa propre mesure, et nous ne percevons que la convolution de ces notes en un flux unique.
-
+### Le Livre Dessin Animé 
+Le temps perçu n'est pas une ligne continue, mais une succession de pages. La réalité est une **polyphonie temporelle** : chaque champ vibre à sa propre mesure, et nous ne percevons qu'une partie de ce phénomène.
 
 
-### La Subsomption (Intégration de l'Académique)
-Pourquoi la science officielle fonctionne-t-elle si elle ne constitue qu'une vision partielle ? Parce que le réel progresse par **subsomption** plutôt que par remplacement.
-
-* **Analogie Historique :** * La mécanique de **Newton** n'a pas été invalidée par la **Relativité** ; elle a été absorbée comme une approximation parfaite à basse vitesse.
-    * La mécanique **classique** n'a pas été détruite par la **Quantique** ; elle a été incluse comme la limite statistique des grands nombres.
-* **Leçon du Marbre :** Le modèle académique actuel (17 champs + 1 substrat) est simplement la "dernière version stable" de cette progression. Notre modèle ne rejette pas la physique moderne, il la subsome à son tour. Il traite l'académique comme une **implémentation par défaut** des objets au sein de notre architecture spatio-temporelle locale. Nous ne contredisons pas le passé, nous l'absorbons dans une structure qui explique *pourquoi* ce standard est observé.
-* **L'Ouverture du Système :** Le Marbre Fraternel est une tentative d'approximation du "Réel". Il est une architecture conçue pour être, elle-même, **subsomée** par un modèle de résolution supérieure. Il attend son propre dépassement. C'est cette acceptation d'être une "étape" qui garantit la pérennité de notre démarche : nous ne cherchons pas la réponse finale, mais la strate suivante.
 
 
 
@@ -48,5 +39,5 @@ Ces exemples sont des **caricatures utiles**. Elles rappellent que :
 2. **La donnée est un résumé destructif du mouvement.**
 3. **Le paradoxe vient souvent de notre confusion entre l'instrument et l'objet.**
 
-> Pour ceux qui souhaitent poursuivre cette réflexion, je propose une architecture logique des fondements :
-* [**Accéder au modèle technique**](./02_ARCHITECTURE-SYSTEME.md)
+> Pour ceux qui souhaitent poursuivre cette réflexion, je travaille actuellement sur une architecture logique des fondements 
+
